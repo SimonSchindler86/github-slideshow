@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey cool im just in my first commit !
+Ah no im back in this
 Use the left arrow to go back!
+
